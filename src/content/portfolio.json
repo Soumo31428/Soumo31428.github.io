@@ -41,10 +41,11 @@
     "intro": "B.Tech Computer Science & Engineering graduate (2026) who enjoys building secure Django and Django REST Framework backends and LLM-powered applications. Hands-on with REST APIs, JWT authentication, PostgreSQL, Redis, Celery, RabbitMQ and Docker, and with the Gemini and OpenAI APIs.",
     "ctaButtons": [
       {
-        "label": "View selected work",
-        "href": "#projects",
+        "label": "See my Resume",
+        "href": "./resume.pdf",
         "variant": "primary",
-        "iconKey": "arrowDownRight"
+        "iconKey": "download",
+        "external": true
       },
       {
         "label": "Start a conversation",

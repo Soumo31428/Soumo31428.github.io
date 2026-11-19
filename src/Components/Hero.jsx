@@ -1,5 +1,5 @@
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
-import { FiArrowDownRight, FiDownload, FiMail } from 'react-icons/fi'
+import { FiDownload, FiMail } from 'react-icons/fi'
 import { motion } from 'motion/react'
 import MobileParallax from '../Animation/MobileParallax'
 import Reveal from '../Animation/Reveal'
@@ -13,7 +13,6 @@ const socialIconMap = {
 }
 
 const ctaIconMap = {
-  arrowDownRight: FiArrowDownRight,
   download: FiDownload,
   mail: FiMail,
 }
